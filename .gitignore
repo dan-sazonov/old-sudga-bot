@@ -142,3 +142,5 @@ cython_debug/
 
 Include/
 .idea/
+Scripts/chardetect.exe
+Scripts/pybabel.exe

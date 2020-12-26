@@ -144,3 +144,4 @@ Include/
 .idea/
 Scripts/chardetect.exe
 Scripts/pybabel.exe
+config.py
